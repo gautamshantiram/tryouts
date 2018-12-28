@@ -5,6 +5,7 @@ import java.util.LinkedHashMap;
 import java.util.Map.Entry;
 
 public class CollectionDemo2 {
+	//added comment
 
 	public static void main(String[] args) {
 		LinkedHashMap<Integer, String> map = new LinkedHashMap<>();
